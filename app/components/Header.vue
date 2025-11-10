@@ -50,21 +50,59 @@
                 <div class="flex justify-between items-center">
                     <div class="flex items-center space-x-8">
                         <div class="relative group">
-                            <a href="/" class="font-medium flex items-center space-x-1 transition-colors text-[#e7a98b]">Home</a>
+                            <a href="/" class="font-medium flex items-center space-x-1 transition-colors text-[#e7a98b]"><span>Home</span></a>
                         </div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">About Us</a></div>
+                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>About Us</span></a></div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">Services</a>
+                            <a href="/navigation/services" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">
+                                <span>Services</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down w-4 h-4" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg>
+                            </a>
+                            <div class="absolute top-full mt-2 left-0 bg-white shadow-lg rounded-lg border border-gray-100 transition-all duration-200 w-80 z-50 opacity-0 invisible group-hover:opacity-100 group-hover:visible">
+                                <div class="p-4">
+                                    <h3 class="text-lg font-semibold text-gray-800 mb-3 pb-2 border-b border-gray-200">Our Services</h3>
+                                    <div class="space-y-1">
+                                        <a href="navigation/services/homecare" class="block p-3 rounded-lg hover:bg-orange-50 transiton-colors group/item">
+                                            <div class="flex items-start space-x-3">
+                                                <div class="w-2 h-2 rounded-full mt-2 flex-shrink-0 bg-[#e7a98b]"></div>
+                                                <div class="font-medium text-gray-800 group-hover/item:text-[#e7a98b] transition-colors">
+                                                Language training</div>
+                                            </div>
+                                        </a>
+                                        <a href="navigation/services/homecare" class="block p-3 rounded-lg hover:bg-orange-50 transiton-colors group/item">
+                                            <div class="flex items-start space-x-3">
+                                                <div class="w-2 h-2 rounded-full mt-2 flex-shrink-0 bg-[#e7a98b]"></div>
+                                                <div class="font-medium text-gray-800 group-hover/item:text-[#e7a98b] transition-colors">
+                                                Career Counceling</div>
+                                            </div>
+                                        </a>
+                                        <a href="navigation/services/homecare" class="block p-3 rounded-lg hover:bg-orange-50 transiton-colors group/item">
+                                            <div class="flex items-start space-x-3">
+                                                <div class="w-2 h-2 rounded-full mt-2 flex-shrink-0 bg-[#e7a98b]"></div>
+                                                <div class="font-medium text-gray-800 group-hover/item:text-[#e7a98b] transition-colors">
+                                                Business Upskilling</div>
+                                            </div>
+                                        </a>
+                                        <a href="navigation/services/homecare" class="block p-3 rounded-lg hover:bg-orange-50 transiton-colors group/item">
+                                            <div class="flex items-start space-x-3">
+                                                <div class="w-2 h-2 rounded-full mt-2 flex-shrink-0 bg-[#e7a98b]"></div>
+                                                <div class="font-medium text-gray-800 group-hover/item:text-[#e7a98b] transition-colors">
+                                                 Future Guiding</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">FAQ'S</a>
+                            <a href="/navigation/faqs" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>FAQ'S</span></a>
                         </div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">Gallery</a>
+                            <a href="/navigation/gallery" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>Gallery</span></a>
                         </div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">Contact Us</a>
+                            <a href="/navigation/contact" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>Contact Us</span></a>
                         </div>
                     </div>
                     <div class="flex space-x-4">
