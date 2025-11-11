@@ -91,5 +91,145 @@
          </h1>
          <p class="text-lg md:text-xl text-gray-600 max-w-3xl leading-tight">With years of experience in caregiver training and Japan’s care industry, our advisor ensures every trainee gains the skills, confidence, and cultural awareness needed to thrive abroad.</p>
    </section>
+   
+   <section class="relative bg-[#2191a5] mt-20 pb-20" style="overflow: visible;">
+      <div class="absolute inset-0 bg-cover bg-center opacity-20 z-0" style="background-image: url(/images/statback.jpg);"></div>
+      <div class="absolute top-0 w-full overflow-hidden leading-[0]">
+         <svg class="relative block w-full h-16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1200 120"><path d="M0,0 C600,120 600,0 1200,120 L1200,0 L0,0 Z" fill="#ffffff"></path></svg>
+      </div>
+      <div class="absolute top-[-90px] left-1/2 transform -translate-x-1/2 z-10 md:z-50 px-4 w-full flex justify-center">
+         <div class="relative w-[320px] md:w-[480px] lg:w-[560px] shadow-2xl rounded-xl overflow-hidden transform hover:scale-105 transition-all duration-500">
+            <div class="relative aspect-video bg-white flex items-center justify-center">
+                <img alt="Video Thumbnail" class="max-w-full max-h-full object-contain" src="https://api.sbitraining.com/media/video_thumbnails/sirthree.jpg">
+            </div>
+         </div>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 px-8 text-center max-w-7xl mx-auto relative z-10 pt-64 md:pt-72"><div class="group"><h2 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#e7a98b] transition-all duration-300 group-hover:scale-110 group-hover:text-[#e7a98b]">5+</h2><p class="text-sm md:text-base text-gray-300 mt-3 transition-colors duration-300 group-hover:text-white font-medium">Years of Experience</p></div><div class="group"><h2 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#e7a98b] transition-all duration-300 group-hover:scale-110 group-hover:text-[#e7a98b]">1k</h2><p class="text-sm md:text-base text-gray-300 mt-3 transition-colors duration-300 group-hover:text-white font-medium">Happy Families</p></div><div class="group"><h2 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#e7a98b] transition-all duration-300 group-hover:scale-110 group-hover:text-[#e7a98b]">50+</h2><p class="text-sm md:text-base text-gray-300 mt-3 transition-colors duration-300 group-hover:text-white font-medium">Expert Nurses</p></div><div class="group"><h2 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#e7a98b] transition-all duration-300 group-hover:scale-110 group-hover:text-[#e7a98b]">5+</h2><p class="text-sm md:text-base text-gray-300 mt-3 transition-colors duration-300 group-hover:text-white font-medium">Awards Winnings</p></div><div class="group"><h2 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-[#e7a98b] transition-all duration-300 group-hover:scale-110 group-hover:text-[#e7a98b]">300+</h2><p class="text-sm md:text-base text-gray-300 mt-3 transition-colors duration-300 group-hover:text-white font-medium">Happy Seniors</p></div></div>
+      <div class="flex justify-center mt-16 relative z-10"><div class="bg-white bg-opacity-10 backdrop-blur-sm rounded-full p-6 border border-white border-opacity-20"><svg class="w-10 h-10 text-[#e7a98b]" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg></div></div>
+      <div class="absolute bottom-0 w-full overflow-hidden leading-[0] rotate-180"><svg class="relative block w-full h-16" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1200 120"><path d="M0,0 C600,120 600,0 1200,120 L1200,0 L0,0 Z" fill="#f8f9fa"></path></svg></div>
+   </section>
+   <section class="py-16 px-4 bg-gray-50 overflow-hidden">
+      <div class="mx-w-7xl mx-auto">
+         <div class="text-center mb-12">
+             <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">We will do, what we are
+               <span class="text-[#e7a98b]">expert in</span>
+             </h1>
+             <p class="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto">Everything you need to support you in family caregiver,
+               <br>
+               We can help you today.
+             </p>
+         </div>
+         <div class="relative">
+            <div class="flex justify-center items-center gap-16 md:gap-24">
+               <div class="relative transition-all duration-500 ease-in-out group cursor-pointer transform scale-90 opacity-70 z-10">
+                  <div class="relative w-56 h-40 md:w-72 md:h-52 rounded-xl overflow-hidden shadow-2xl">
+                     <img
+                        src="https://api.sbitraining.com/media/expertise_images/home3.jpg"
+                        alt="Language & Certification"
+                        class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                     />
+                     <div class="absolute inset-0 bg-[#e7a98b] opacity-0 group-hover:opacity-70 transition-opacity duration-300 flex flex-col justify-center items-center">
+                        <h3 class="text-white font-bold text-xl md:text-2xl text-center mb-4">
+                           Language & Certification
+                        </h3>
+                        <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center">
+                           <svg
+                           class="w-6 h-6 text-[#e7a98b]"
+                           fill="none"
+                           stroke="currentColor"
+                           viewBox="0 0 24 24"
+                           >
+                           <path
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-width="2"
+                              d="M17 8l4 4m0 0l-4 4m4-4H3"
+                           />
+                           </svg>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
+               <div class="relative transition-all duration-500 ease-in-out group cursor-pointer transform scale-90 opacity-70 z-10">
+                  <div class="relative w-56 h-40 md:w-72 md:h-52 rounded-xl overflow-hidden shadow-2xl">
+                     <img
+                      src="https://api.sbitraining.com/media/expertise_images/home1.jpg"
+                      alt=""
+                      class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105">
+                      <div class="absolute inset-0 bg-[#e7a98b] opacity-0 group-hover:opacity-70  transition-opacity duration-300 flex flex-col justify-center items-center">
+                              <h3 class="text-white font-bold text-xl md:text-2xl text-center mb-4">
+                                 Japan-Specific Opportunities
+                              </h3>
+                              <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center">
+                                 <svg
+                                 class="w-6 h-6 text-[#e7a98b]"
+                                 fill="none"
+                                 stroke="currentColor"
+                                 viewBox="0 0 24 24"
+                                 >
+                                 <path
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    stroke-width="2"
+                                    d="M17 8l4 4m0 0l-4 4m4-4H3"
+                                 />
+                                 </svg>
+                              </div>
+                      </div>
+                  </div>
+               </div>
+              
+               <div class="relative transition-all duration-500 ease-in-out group cursor-pointer transform scale-90 opacity-70 z-10">
+                  <div class="relative w-56 h-40 md:w-72 md:h-52 rounded-xl overflow-hidden shadow-2xl">
+                     <img
+                        src="https://api.sbitraining.com/media/expertise_images/home2.jpg"
+                        alt="Training & Skills Development"
+                        class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                     />
+                     <div class="absolute inset-0 bg-[#e7a98b] opacity-0 group-hover:opacity-70 transition-opacity duration-300 flex flex-col justify-center items-center">
+                        <h3 class="text-white font-bold text-xl md:text-2xl text-center mb-4">
+                           Training & Skills Development
+                        </h3>
+                        <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center">
+                           <svg
+                           class="w-6 h-6 text-[#e7a98b]"
+                           fill="none"
+                           stroke="currentColor"
+                           viewBox="0 0 24 24"
+                           >
+                           <path
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-width="2"
+                              d="M17 8l4 4m0 0l-4 4m4-4H3"
+                           />
+                           </svg>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section class="py-20 px-4 bg-white relative overflow-hidden">
+      <div class="max-w-6xl mx-auto relative z-10">
+         <div class="text-center mb-16">
+            <div class="inline-flex items-center gap-2 bg-white/60 backupdrop-blur-sm px-4 py-2 rounded-full border border-white/20 mb-6">
+               <div class="w-2 h-2 bg-[#e7a98b] rounded-full animate-pulse"></div>
+               <div class="font-medium text-[#e7a98b] text-sm tracking-side uppercase">testimonials</div>
+            </div>
+            <h1 class="text-4xl md:text-6xl text-gray-800 font-bold mb-6 leading-tight">What Our
+               <span class="text-[#e7a98b]">Amazing</span>
+               <br class="hidden sm:block ">
+               Clients Say
+            </h1>
+            <p class="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">Real stories from real people who have experienced exceptional care and service</p>
+         </div>
+         <div class="relative"><button class="absolute left-4 top-1/2 -translate-y-1/2 z-30 w-12 h-12 bg-white/90 backdrop-blur-sm hover:bg-white shadow-xl rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 group md:flex"><svg class="w-5 h-5 text-gray-700 group-hover:text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg></button><button class="absolute right-4 top-1/2 -translate-y-1/2 z-30 w-12 h-12 bg-white/90 backdrop-blur-sm hover:bg-white shadow-xl rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 group md:flex"><svg class="w-5 h-5 text-gray-700 group-hover:text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></button><div class="max-w-4xl mx-auto"><div class="bg-white/80 backdrop-blur-lg rounded-3xl p-8 md:p-12 shadow-2xl border border-white/20"><div class="flex flex-col md:flex-row items-center gap-8"><div class="flex-shrink-0"><div class="relative"><div class="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden ring-4 ring-white/50 shadow-xl bg-gradient-to-br from-indigo-100 to-purple-100 relative"><img alt="Ramesh Gautam" class="w-full h-full object-cover transition-transform duration-700 hover:scale-110" src="https://api.sbitraining.com/media/testimonials/doctors.jpg"><div class="absolute inset-0 bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white font-bold text-xl md:text-2xl" style="display: none;">RG</div></div><div class="absolute -bottom-2 -right-2 w-8 h-8 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-full flex items-center justify-center shadow-lg"><svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h4v10h-10z"></path></svg></div></div></div><div class="flex-1 text-center md:text-left"><div class="mb-6"><h3 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Ramesh Gautam</h3><p class="text-[#e7a98b] font-semibold text-lg">Caregiver – Osaka, Japan</p></div><blockquote class="text-gray-700 text-lg md:text-xl leading-relaxed italic">"The caregiver training gave me both technical skills and confidence. The hands-on practice and guidance from experienced trainers helped me secure a job in Osaka quickly. I’m now able to support my family and grow professionally every day."</blockquote></div></div></div></div></div>
+         <div class="flex justify-center items-center gap-3 mt-12"><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 1"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 2"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 3"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 4"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 5"></button><button class="transition-all duration-300 rounded-full w-12 h-3 bg-[#e7a98b] shadow-lg" aria-label="Go to testimonial 6"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 7"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 8"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 9"></button><button class="transition-all duration-300 rounded-full w-3 h-3 bg-gray-300 hover:bg-gray-400 hover:scale-125" aria-label="Go to testimonial 10"></button></div>
+         <div class="flex justify-center gap-4 mt-8 md:hidden"><button class="w-12 h-12 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300"><svg class="w-5 h-5 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg></button><button class="w-12 h-12 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300"><svg class="w-5 h-5 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></button></div>
+      </div>
+   </section>
 </template>
