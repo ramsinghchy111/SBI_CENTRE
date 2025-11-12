@@ -53,7 +53,7 @@
                             <a href="/" class="font-medium flex items-center space-x-1 transition-colors text-[#e7a98b]"><span>Home</span></a>
                         </div>
                         <div class="relative group">
-                            <a href="/navigation/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>About Us</span></a></div>
+                            <a href="/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>About Us</span></a></div>
                         <div class="relative group">
                             <a href="/navigation/services" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">
                                 <span>Services</span>
