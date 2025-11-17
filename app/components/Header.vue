@@ -55,10 +55,10 @@
                         <div class="relative group">
                             <a href="/about" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]"><span>About Us</span></a></div>
                         <div class="relative group">
-                            <a href="/navigation/services" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">
+                            <nuxt-link to="/services/services" class="font-medium flex items-center space-x-1 transition-colors text-gray-800 hover:text-[#e7a98b]">
                                 <span>Services</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down w-4 h-4" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg>
-                            </a>
+                            </nuxt-link>
                             <div class="absolute top-full mt-2 left-0 bg-white shadow-lg rounded-lg border border-gray-100 transition-all duration-200 w-80 z-50 opacity-0 invisible group-hover:opacity-100 group-hover:visible">
                                 <div class="p-4">
                                     <h3 class="text-lg font-semibold text-gray-800 mb-3 pb-2 border-b border-gray-200">Our Services</h3>
